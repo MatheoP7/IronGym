@@ -1,0 +1,53 @@
+[
+  {
+    "headline": "Descubren una nueva especie de dinosaurio en Argentina",
+    "author": "Juan Pérez",
+    "date": "2024-06-11",
+    "content": "Paleontólogos en Argentina han descubierto una nueva especie de dinosaurio que habitó la Tierra hace aproximadamente 70 millones de años. El hallazgo se realizó en la región de la Patagonia y ha generado gran entusiasmo en la comunidad científica.",
+    "location": "Patagonia, Argentina",
+    "categories": ["Ciencia", "Paleontología"],
+    "images": [
+      {
+        "url": "https://example.com/dinosaurio.jpg",
+        "caption": "Fósiles del nuevo dinosaurio descubierto en Argentina."
+      }
+    ],
+    "related_articles": [
+      {
+        "headline": "Los dinosaurios más grandes descubiertos en América del Sur",
+        "url": "https://example.com/dinosaurios-america-sur"
+      },
+      {
+        "headline": "La evolución de los dinosaurios: nuevos hallazgos",
+        "url": "https://example.com/evolucion-dinosaurios"
+      }
+    ]
+  },
+
+  {
+    "headline": "Descubren una nueva especie de matheo en mexico",
+    "author": "Juan verga",
+    "date": "2024-06-11",
+    "content": "Paleontólogos en mexico han descubierto una nueva especie de matheo que habitó la Tierra hace aproximadamente 70 millones de años. El hallazgo se realizó en la región de la Patagonia y ha generado gran entusiasmo en la comunidad científica.",
+    "location": "Patagonia, Argentina",
+    "categories": ["Ciencia", "Paleontología"],
+    "images": [
+      {
+        "url": "https://example.com/dinosaurio.jpg",
+        "caption": "Fósiles del nuevo dinosaurio descubierto en Argentina."
+      }
+    ],
+    "related_articles": [
+      {
+        "headline": "Los dinosaurios más grandes descubiertos en América del Sur",
+        "url": "https://example.com/dinosaurios-america-sur"
+      },
+      {
+        "headline": "La evolución de los dinosaurios: nuevos hallazgos",
+        "url": "https://example.com/evolucion-dinosaurios"
+      }
+    ]
+  }
+]
+
+
